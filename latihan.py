@@ -1,3 +1,7 @@
 a = 2
 b = 3
-ab = a/b
+
+pembagian_ab = a/b
+perkalian_ab = a*b
+
+print(perkalian_ab)
